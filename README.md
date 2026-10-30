@@ -41,7 +41,7 @@ Merged the approved branch into the main branch after successful review.
 
 Collaborators
 Troy Greene
-Ashton Jagnarayn
+Ashton Jagnarayan
 
 Additional Details
 This repository demonstrates the GitHub workflow process, including repository creation, branching, committing changes, collaboration, pull requests, code review, and merging changes into the main branch.
